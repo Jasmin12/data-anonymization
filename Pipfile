@@ -8,6 +8,8 @@ gretel-client = "*"
 jupyter = "*"
 pandas = "*"
 faker = "*"
+presidio-analyzer = "*"
+presidio-anonymizer = "*"
 
 [dev-packages]
 
