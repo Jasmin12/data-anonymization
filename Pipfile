@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 gretel-client = "*"
 jupyter = "*"
+pandas = "*"
+faker = "*"
 
 [dev-packages]
 
