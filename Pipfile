@@ -10,6 +10,7 @@ pandas = "*"
 faker = "*"
 presidio-analyzer = "*"
 presidio-anonymizer = "*"
+faker-vehicle = "*"
 
 [dev-packages]
 
