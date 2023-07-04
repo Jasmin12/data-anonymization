@@ -1,0 +1,3 @@
+[submodule "k-anonymity"]
+	path = k-anonymity
+	url = https://github.com/Jasmin12/k-anonymity.git
